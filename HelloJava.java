@@ -39,6 +39,10 @@ public class HelloJava {
         // However, you can create a utility method to achieve similar functionality.
         double result = tryParseDouble(rubbish, 0);
         System.out.println("Result: " + result);
+
+        // Records
+        // This is quite cool
+        Student student = new Student("Bill", 29);
     }
 
     private static double tryParseDouble(String value, double defaultValue) {
