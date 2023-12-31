@@ -1,4 +1,6 @@
 # LearningJava
+This repo contains some code from the Big Java, Early objects code
+https://horstmann.com/bigjava/ 
 
 #29.12.2023
 
