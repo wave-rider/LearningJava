@@ -1,3 +1,6 @@
+# 5-May-2024
+Installed [UML gen plugin to InteliJ by Alessandro Caldonazzi](https://plugins.jetbrains.com/plugin/15124-uml-generator)
+
 # 1-May-2024
 [Java FX Scene Builder](https://gluonhq.com/products/scene-builder/)
 
