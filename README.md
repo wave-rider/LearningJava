@@ -1,3 +1,6 @@
+# 7-May-2024
+Fix Error: JavaFX runtime components are missing, and are required to run this application
+`--module-path "\path\to\javafx-sdk-17\lib" --add-modules javafx.controls,javafx.fxml `
 # 5-May-2024
 Installed [UML gen plugin to InteliJ by Alessandro Caldonazzi](https://plugins.jetbrains.com/plugin/15124-uml-generator)
 
